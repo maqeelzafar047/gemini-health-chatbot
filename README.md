@@ -79,5 +79,3 @@ This chatbot is **not intended for medical diagnosis or emergency advice**. All 
 
 ---
 
-*Report generated on June 30, 2025*
-
